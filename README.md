@@ -2,7 +2,7 @@
 
 Sample Nodejs Express web application built on [visual studio code](https://code.visualstudio.com/).
 
-Language| Framework | Runtime | Platform | Author |
+Language| Framework | Runtime | Plxxatform | Author |
 | --------| -------- | -------- |--------|--------|
 javascript| Express | node | Azure Web App| |
 
